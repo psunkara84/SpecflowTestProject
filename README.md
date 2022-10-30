@@ -17,6 +17,3 @@ Useful links:
 
 http://www.specflow.org/getting-started/
 http://www.specflow.org/guidance/first-steps/
-
-TeamCity SpecFlow Integration: Refer below link
-http://www.hamishgraham.net/post/TeamCity-SpecFlow-Integration.aspx
